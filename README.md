@@ -1,5 +1,5 @@
-# Clicker-Guild
-
+# Clicker Guild
+This was my first freelance gig which got released on steam.
 
 
 ![Alt text](http://cdn.akamai.steamstatic.com/steam/apps/557810/ss_e20b444fdd6875c5e5ed155802b7ca14a2bdfdd0.600x338.jpg?t=1481917634 "Image")
