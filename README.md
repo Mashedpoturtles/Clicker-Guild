@@ -1,5 +1,7 @@
 # Clicker-Guild
+
 * [Link to game!] (http://store.steampowered.com/app/557810/)
+
 ![Alt text](http://cdn.akamai.steamstatic.com/steam/apps/557810/ss_e20b444fdd6875c5e5ed155802b7ca14a2bdfdd0.600x338.jpg?t=1481917634 "Image")
 
 this respository serves as a display only and does not share any code.
