@@ -1,4 +1,5 @@
 # Clicker-Guild
+![Alt text](http://cdn.akamai.steamstatic.com/steam/apps/557810/ss_e20b444fdd6875c5e5ed155802b7ca14a2bdfdd0.600x338.jpg?t=1481917634 "Image")
 this respository serves as a display only and does not share any code.
 
 
@@ -12,4 +13,4 @@ this respository serves as a display only and does not share any code.
 - [x] Achievements 
 - [x] Free to Play
 
-![Alt text](http://cdn.akamai.steamstatic.com/steam/apps/557810/ss_d9f174d5244620931bb387dbddec26a5cb9f798a.116x65.jpg?t=1481917634 "Image")
+
